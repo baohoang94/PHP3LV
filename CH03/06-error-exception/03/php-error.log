@@ -1,0 +1,4 @@
+[18-May-2019 17:54:06 Europe/Berlin] PHP Notice:  Undefined variable: array in D:\xampp\htdocs\PHP3LV\CH03\06-error-exception\03\02.php on line 5
+[18-May-2019 17:54:06 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\PHP3LV\CH03\06-error-exception\03\02.php on line 5
+[18-May-2019 17:59:49 Europe/Berlin] PHP Notice:  Undefined variable: array in D:\xampp\htdocs\PHP3LV\CH03\06-error-exception\03\02.php on line 5
+[18-May-2019 17:59:49 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\xampp\htdocs\PHP3LV\CH03\06-error-exception\03\02.php on line 5
